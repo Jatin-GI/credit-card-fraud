@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the Jupyter Notebook:
 jupyter notebook
-
+```
 
 ## ✅ Key Takeaways
 
