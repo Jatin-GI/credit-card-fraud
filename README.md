@@ -99,16 +99,23 @@ Since this is an **unsupervised anomaly detection problem** (very limited fraud 
 
 ## 🖥 How to Run the Project
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Jatin-GI/credit-card-fraud.git
-   cd credit-card-fraud
-2. (Optional) Create Virtual Environment:
-   python -m venv venv
-   venv\Scripts\activate    # On Windows
-   source venv/bin/activate # On Mac/Linux
-3. Install Dependencies:
-   pip install -r requirements.txt
+To get started with this project on your local machine, follow the steps below:
+
+```bash
+# 1️⃣ Clone the repository:
+git clone https://github.com/Jatin-GI/credit-card-fraud.git
+cd credit-card-fraud
+
+# 2️⃣ (Optional but Recommended) Create and activate a virtual environment:
+python -m venv venv
+venv\Scripts\activate    # On Windows
+source venv/bin/activate # On Mac/Linux
+
+# 3️⃣ Install the required dependencies:
+pip install -r requirements.txt
+
+# 4️⃣ Run the Jupyter Notebook:
+jupyter notebook
 
 
 ## ✅ Key Takeaways
